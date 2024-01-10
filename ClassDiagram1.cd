@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Semana1.Date">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJAAAAAAAAAEAAAMAAAAEAACEIAAAAAAEAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana1.Vectores">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Vectores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana1.Empleados">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empleados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
